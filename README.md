@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="https://jdssistemas.com">
+  <a href="https://curriculum-vitae-jacksonsantin.vercel.app">
     <img alt="Feito por Jackson Dhanyel Santin" src="https://img.shields.io/badge/feito%20por-Jackson-%238257E5">
   </a>
 </p>
@@ -56,7 +56,7 @@ A seguinte ferramenta foi usada na construção do projeto:
 ---
 
 
-Feito com ❤️ por Jackson Dhanyel Santin 👋🏽 [Entre em contato!](https://jdssistemas.com)
+Feito com ❤️ por Jackson Dhanyel Santin 👋🏽 [Entre em contato!](https://curriculum-vitae-jacksonsantin.vercel.app/contato)
 
 Consulte informações sobre a licença do projeto [MIT](https://github.com/JacksonSantin/stock-trader/blob/master/LICENSE).
 
